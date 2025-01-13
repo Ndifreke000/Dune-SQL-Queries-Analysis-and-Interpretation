@@ -35,4 +35,7 @@ Our **Token Flow Analyser** is more than just data; it's a storytelling tool for
 
 🧭![Token Flow Analyzer_ Monitoring StarkNet Transfer Patterns](https://github.com/user-attachments/assets/644a75c9-daa7-43b3-b622-81ae1d0e2b6d)
 
-Welcome to a journey through the **token flows of StarkNet**. 🌟🔮
+Welcome to a journey through the **token flows of StarkNet**. 🌟🔮 
+
+
+LINK TO DUNE: https://dune.com/ndii/token-flow-analyzer-monitoring-starknet-transfer-patterns
