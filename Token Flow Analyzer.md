@@ -18,7 +18,8 @@ Our **Token Flow Analyser** isn't just a dashboard; it's an exploration tool tha
 
 ---
 
-### Navigating the Analyser: 🧭
+### Navigating the Analyser:
+
 
 👁️ **Start with the Overview**: Get a high-level view of token activity on StarkNet. See daily volumes, total supply, and key metrics at a glance. 📅📊
 
@@ -31,5 +32,7 @@ Our **Token Flow Analyser** isn't just a dashboard; it's an exploration tool tha
 ---
 
 Our **Token Flow Analyser** is more than just data; it's a storytelling tool for the blockchain era, where each token's path tells a tale of innovation, economy, and technology. Whether you're here to conduct academic research, make informed investment decisions, or simply satisfy your curiosity about how tokens move in a decentralized world, this dashboard is your compass. 🧭💫 
+
+🧭![Token Flow Analyzer_ Monitoring StarkNet Transfer Patterns](https://github.com/user-attachments/assets/644a75c9-daa7-43b3-b622-81ae1d0e2b6d)
 
 Welcome to a journey through the **token flows of StarkNet**. 🌟🔮
