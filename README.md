@@ -51,5 +51,3 @@ We welcome contributions! To add new queries or reports:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-This README provides a clear overview of the repository's purpose, guides users on how to get started, and encourages community contributions. It also references Dune's official documentation and a template repository for managing Dune queries, offering users additional resources to enhance their analytical capabilities. 
