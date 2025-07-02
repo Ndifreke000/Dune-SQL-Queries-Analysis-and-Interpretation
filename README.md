@@ -47,6 +47,9 @@ We welcome contributions! To add new queries or reports:
 - [Dune Analytics Documentation](https://docs.dune.com/)
 - [Dune Query Repository Template](https://github.com/duneanalytics/DuneQueryRepo)
 
+![Screenshot from 2025-07-02 14-09-41](https://github.com/user-attachments/assets/b5332d31-f654-49f7-b2e7-be8c4caf7033)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
