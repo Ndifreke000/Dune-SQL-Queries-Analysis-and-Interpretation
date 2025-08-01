@@ -1,5 +1,9 @@
 # Dune SQL Queries, Analysis, and Interpretation
 
+<img width="311" height="202" alt="Screenshot from 2025-08-01 20-33-00" src="https://github.com/user-attachments/assets/717507cb-587c-4749-9ca1-67b71826b43c" />
+
+
+
 Welcome to the Dune SQL Queries repository! This collection is dedicated to providing SQL queries and analytical insights for blockchain data using Dune's query engine.
 
 ## Overview
